@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "./dist",
+
+    "module": "esnext",
+    "target": "esnext",
+    "types": [],
+
+    // Recommended Options
+    "strict": true,
+     "skipLibCheck": true,
+    "moduleDetection": "force"
+  }
+}
